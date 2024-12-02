@@ -21,19 +21,20 @@
 - Put PRIVY_APP_ID dan PRIVY_CA_ID enter in the `config.txt`.
 
 ## How to run
-```
-git clone https://github.com/Rambeboy/fishfrenzy-autoreff-bot.git
-```
-```
-cd fishfrenzy-autoreff-bot
-```
-```
-npm install
-```
-```
-node index.js
-```
-or
-```
-npm run start
-```
+
+1. Clone the repository
+   ```
+   git clone https://github.com/Rambeboy/fishfrenzy-autoreff-bot.git
+   ```
+2. Navigate to project dir
+   ```
+   cd fishfrenzy-autoreff-bot
+   ```
+3. Install dependencies
+   ```
+   npm install
+   ```
+4. Run the bot
+   ```
+   node index.js
+   ```
