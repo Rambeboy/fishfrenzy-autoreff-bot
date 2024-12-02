@@ -1,1 +1,1 @@
-# fishfrenzy-autoreff-bot
+## FISHING FRENZY AUTO REFERRAL BOT
